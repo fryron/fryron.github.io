@@ -1,0 +1,1 @@
+input[type=date]::-webkit-calendar-picker-indicator{cursor:pointer;border-radius:4px;margin-right:2px;opacity:.7;color-scheme:dark}input[type=date]::-webkit-calendar-picker-indicator:hover{opacity:1}
